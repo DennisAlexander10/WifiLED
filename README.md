@@ -2,5 +2,5 @@
 Proyecto en el Colegio Don Bosco
 
 #Contribuidores 
-#1
-*[DennisMolina]
+
+*[DennisMolina] https://github.com/DennisAlexander10
