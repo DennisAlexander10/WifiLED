@@ -7,4 +7,4 @@ Proyecto en el Colegio Don Bosco
 
 # Lugar
 
-* Pryecto De arduino
+* Pr0yecto De arduino
